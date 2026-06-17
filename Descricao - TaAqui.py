@@ -1,3 +1,5 @@
+from django.db import models
+
 descricao = models.TextField(
         verbose_name="Descrição",
         help_text="Campo livre para textos longos, sem limite de caracteres.",
