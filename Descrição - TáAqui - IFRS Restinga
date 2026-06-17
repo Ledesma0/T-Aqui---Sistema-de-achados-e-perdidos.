@@ -1,0 +1,10 @@
+ O TáAqui será um sistema de achados e perdidos voltado para a comunidade acadêmica, com o objetivo de facilitar a divulgação,
+a identificação e a devolução de objetos perdidos ou encontrados dentro do campus restinga do Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul. 
+ A plataforma permitirá centralizar informações que atualmente podem ficar espalhadas em grupos de mensagens, redes sociais ou murais, tornando o processo mais organizado, rápido e seguro.
+Para utilizar o sistema, o usuário deverá criar uma conta utilizando sua matrícula e seu e-mail. Após o cadastro, poderá publicar um objeto perdido ou encontrado, informando descrição,
+categoria, data, local, fotografia e dados de contato. No caso de objetos encontrados, também será possível registrar onde o pertence está disponível para retirada.
+ As informações inseridas serão armazenadas e organizadas pelo sistema para permitir buscas avançadas por categoria, data ou local.
+Assim, quando um usuário identificar um possível pertence, poderá entrar em contato com o responsável pela publicação por meio do chat interno.
+ Após a devolução, o objeto deverá ser marcado com o status “Devolvido”. Para o desenvolvimento, os testes e a utilização do sistema, 
+serão necessários computadores ou celulares com acesso à internet, navegador, banco de dados, ambiente de programação e Github. 
+Também será importante realizar testes com usuários para verificar a facilidade de uso da plataforma.
